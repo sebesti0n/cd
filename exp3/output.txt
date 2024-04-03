@@ -1,0 +1,6 @@
+    This is a trial code for eliminating comment lines.
+    Program for adding two integers.
+    
+Taking 2 inputs for addition
+Adding the numbers and storing the result
+Printing the result

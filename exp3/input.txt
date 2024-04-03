@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main() {
+    /*
+    This is a trial code for eliminating comment lines.
+    Program for adding two integers.
+    */
+    int num1, num2;         //Taking 2 inputs for addition
+    int result = num1 + num2;       //Adding the numbers and storing the result
+    //Printing the result
+    printf("\nThe result of addition of %d and %d is %d.\n", &num1, &num2, &result);
+    return 0;
+}
